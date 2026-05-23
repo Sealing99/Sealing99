@@ -12,13 +12,15 @@
   - Music Production
   - Music Theory
   - Piano Playing
+  - Youtube
 
 ## My current projects 🔭
 
-  - Minecraft Mod
+  - Minecraft Mod(s)
   - Audio Plugin
   - Android App
   - Geometry Dash Mod
+  - C Compiler
 
 ## Coding Style
 
