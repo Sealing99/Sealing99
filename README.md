@@ -21,6 +21,7 @@
   - Android App
   - Geometry Dash Mod
   - C Compiler
+  - Minecraft server
 
 ## Coding Style
 
