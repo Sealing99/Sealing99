@@ -31,7 +31,11 @@ Please note that this is not one language, I mixed multiple for more variety.
 class ExampleClass {
 public:
     public ExampleClass(int variableInt, std::string variableString) {
-        
+        if (baz == true) {
+            foo();
+        } else if (baz == false) {
+            bar();
+        }
     }
 
 private:
@@ -65,17 +69,3 @@ HTML:
 </html>
 ```
 (html, head, body on 1st line)
-<!--
-**Sealing99/Sealing99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
