@@ -43,9 +43,6 @@ private:
         int a;
         std::string b;
     };
-
-    StructExample idk;
-    idk.a = 1;
 }
 ```
 JSON Example:
