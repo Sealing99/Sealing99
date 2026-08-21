@@ -12,7 +12,8 @@
   - Music Production
   - Music Theory
   - Piano Playing
-  - Youtube
+  - Youtube Content
+  - Maths
 
 ## My current projects 🔭
 
