@@ -16,7 +16,7 @@
 
 ## My current projects 🔭
 
-  - Minecraft Mod(s)
+  - Minecraft Mod(s)/Plugin(s): https://modrinth.com/user/sealing99
   - Audio Plugin
   - Android App
   - Geometry Dash Mod
