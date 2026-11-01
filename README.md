@@ -1,12 +1,12 @@
-## Languages I know 🌐
+## Languages I know
 
-  - Python 🐍
-  - C/C++ ©️
-  - Kotlin 📱
-  - Java 🍵
-  - HTML 📱
+  - Python
+  - C/C++
+  - Kotlin
+  - Java
+  - HTML
 
-## Other Interests 💭
+## Other Interests
 
   - Electronics
   - Music Production
@@ -15,7 +15,7 @@
   - Youtube Content
   - Maths
 
-## My current projects 🔭
+## Current projects
 
   - Minecraft Mod(s)/Plugin(s): https://modrinth.com/user/sealing99
   - Audio Plugin
